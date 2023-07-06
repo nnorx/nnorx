@@ -1,7 +1,5 @@
 # Hello, I'm Nick Norcross
 
-- My favorite language is Python
-- I enjoy building web apps with ReactJS, Django, and Docker
-- I have lead development of a learning managment system (LMS) mobile application built with Flutter
-- My other interests include music production, video production, and decentralized systems
+- I enjoy building modern web apps, especially with TypeScript
+- I thoroughly enjoy bridging the gap between design and technical domains
 - Check out my personal website at [nicknorcross.com](http://nicknorcross.com)
